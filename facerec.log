@@ -1,0 +1,4 @@
+Jan 07, 2016 8:47:40 AM facerecognition.javafaces.FaceRec processCache
+INFO: folder contents changed
+Jan 07, 2016 8:47:40 AM facerecognition.javafaces.FaceRec checkImageDimensions
+SEVERE: all images should have same dimensions! /home/pratham/workspace/javafaces/gallery/Amber Heard_MV5BMTY1MTQ2Nzg1NV5BMl5BanBnXkFtZTcwMTU2OTM4Mg.jpg_0.png is of diff size
